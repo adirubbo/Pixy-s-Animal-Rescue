@@ -1,2 +1,3 @@
 # Pixy-s-Animal-Resuce
-The file host for our web design final project
+> Ben Andrews, Jonah Dean, Tony DiRubbo, Kevon Small
+[Our Website](google.com)
